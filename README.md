@@ -1,0 +1,3 @@
+# Dibimbing
+Tim marketing meminta anda sebagai Marketing Researcher untuk meneliti apa yang menyebabkan seseorang tertarik untuk merespon marketing campaign yang sudah dibuat oleh mereka. Insight yang dihasilkan nanti rencananya akan digunakan untuk membuat strategi marketing yang tepat di masa mendatang. 
+Anda merasa yakin bahwa untuk mengetahui faktor apa saja yang dapat mempengaruhi seseorang untuk merespon suatu campaign dapat diekstrak langsung dari data tanpa harus membuat model. Analisisnya secara deskriptif (EDA) apa saja faktor yang membuat seseorang merespon campaign dari tim marketing. Berikan penjelasan dan alasan mengapa variabel tertentu berasosiasi dengan variabel target (Response)
